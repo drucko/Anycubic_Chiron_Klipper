@@ -7,4 +7,4 @@ Please consider this config file as a starting point and not a working copy and 
 - change MCU serial to yours
 - BE CAREFUL with the stepper_z position_endstop value, the one here is for my mashine, you need to calibrate your bed and setting this value before you can use your printer
 - pressure_advance is set to zero in this config file, change it to your needs
-- the configured sensor_type is the original one from the chiron, i did not used the one coming with the Biqu H2
+- the configured thermistor sensor_type is the original one from the chiron, i did not used the one coming with the Biqu H2
