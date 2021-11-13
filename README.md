@@ -1,5 +1,5 @@
 # Anycubic_Chiron_Klipper
-This is the klipper config file for a Anycubic Chiron with a Biqu H2 direct extruder.
+This is the klipper config file for a Anycubic Chiron with a Bondtech extruder.
 
 Please consider this config file as a starting point and not a working copy and paste solution.
 
